@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfIconButtonDemo", "WpfIconButtonDemo\WpfIconButtonDemo.csproj", "{C7EECD4F-7010-4AD5-A38C-7DE01BFA60EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfIconButtonControlLibrary", "WpfIconButtonControlLibrary\WpfIconButtonControlLibrary.csproj", "{3B9D3A02-0878-4F04-9CEA-6F21B517D7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EECD4F-7010-4AD5-A38C-7DE01BFA60EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EECD4F-7010-4AD5-A38C-7DE01BFA60EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EECD4F-7010-4AD5-A38C-7DE01BFA60EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EECD4F-7010-4AD5-A38C-7DE01BFA60EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9D3A02-0878-4F04-9CEA-6F21B517D7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9D3A02-0878-4F04-9CEA-6F21B517D7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9D3A02-0878-4F04-9CEA-6F21B517D7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9D3A02-0878-4F04-9CEA-6F21B517D7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F82E3F3-F0B1-4808-9629-CDA3595D4E3A}
+	EndGlobalSection
+EndGlobal
