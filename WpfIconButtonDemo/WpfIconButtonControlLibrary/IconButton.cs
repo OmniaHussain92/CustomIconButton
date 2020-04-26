@@ -53,7 +53,6 @@ namespace WpfIconButtonControlLibrary
 
         #endregion
 
-
         #region TextProperty
         
         public static readonly DependencyProperty TextProperty =
@@ -96,7 +95,6 @@ namespace WpfIconButtonControlLibrary
 
         #endregion
 
-
         #region IconVisibility
 
         public static readonly DependencyProperty IconVisibilityProperty =
@@ -110,6 +108,5 @@ namespace WpfIconButtonControlLibrary
         }
 
         #endregion
-
     }
 }
